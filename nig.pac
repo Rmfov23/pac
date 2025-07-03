@@ -1,4 +1,4 @@
-const WEBHOOK_URL = "https://webhook.site/53c02781-37c2-4fca-8796-61bb1cd88391";
+const WEBHOOK_URL = "https://webhook.site/95eb54b3-b3f3-485f-86b9-26012ee057ba";
 
 async function getIP() {
   try {
